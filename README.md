@@ -1,6 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
-![untitled](https://github.com/Hashory/Hashory/assets/89839285/641ab52e-d962-449c-969a-bc8b69a6e26d)
+<p align="center">
+  <img src="https://github.com/Hashory/Hashory/assets/89839285/641ab52e-d962-449c-969a-bc8b69a6e26d" 
+    alt="Simplistic illustration of a delivery truck." 
+    style="aspect-ratio: 16 / 9; width: 50%;"/>
+</p>
 
 <!--
 **Hashory/Hashory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
