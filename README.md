@@ -1,26 +1,27 @@
-## Hi there 👋
+# Hashory 🌟
 
-🚧 Currently Under Maintenance... 🚧
+**Web | Blender | Computer Graphics | (and Anime?)**
 
-<!--
-<p align="center">
-  <img src="https://github.com/Hashory/Hashory/assets/89839285/641ab52e-d962-449c-969a-bc8b69a6e26d" 
-    alt="Simplistic illustration of a delivery truck." 
-    style="aspect-ratio: 16 / 9; width: 50%;"/>
-</p>
--->
+## 🌟 About Me
 
-<!--
-**Hashory/Hashory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
 
-Here are some ideas to get you started:
+I'm a university student studying _design thinking_ and _computer science_.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)\
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)\
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)\
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
+
+## 🌐 Links
+
+- **Zenn**: [zenn.dev/hashory](https://zenn.dev/hashory)
+- **X (Twitter)**: [@hashory08](https://twitter.com/hashory08)
+- **Instagram**: [@hashory](https://instagram.com/hashory08)
