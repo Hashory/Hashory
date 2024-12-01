@@ -25,3 +25,4 @@ I'm a university student studying _design thinking_ and _computer science_.
 - **Zenn**: [zenn.dev/hashory](https://zenn.dev/hashory)
 - **X (Twitter)**: [@hashory08](https://twitter.com/hashory08)
 - **Instagram**: [@hashory08](https://instagram.com/hashory08)
+- **Discord**: [@hashory](https://discordapp.com/users/UserID/346636425669902336)
