@@ -6,7 +6,14 @@
 
 Hi there 👋
 
-I'm a university student studying _design thinking_ and _computer science_.
+I'm a university student, studying _design thinking_ and _computer science_.
+
+- **Web**: Experience in creating my own projects.
+- **Blender**: Understanding of its
+tools and operations.
+- **Unity**: Experience in making simple, single-player games.
+
+Recently, I’ve started exploring ways to improve workflows in anime production and am excited to grow in this area.
 
 ## 🔧 Skills
 
