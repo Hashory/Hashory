@@ -6,7 +6,7 @@
 
 Hi there 👋
 
-I'm a university student, studying _design thinking_ and _computer science_.
+I'm [@Hashory](https://github.com/Hashory/).  I'm a university student, studying _design thinking_ and _computer science_.
 
 - **Web**: Experience in creating my own projects.
 - **Blender**: Understanding of its
