@@ -29,7 +29,7 @@ Recently, I’ve started exploring ways to improve workflows in anime production
 
 ## 🌐 Links
 
-- **Zenn**: [zenn.dev/hashory](https://zenn.dev/hashory)
-- **X (Twitter)**: [@hashory08](https://twitter.com/hashory08)
-- **Instagram**: [@hashory08](https://instagram.com/hashory08)
-- **Discord**: [@hashory](https://discordapp.com/users/UserID/346636425669902336)
+- **Zenn**: _[zenn.dev/hashory](https://zenn.dev/hashory)_
+- **X (Twitter)**: _[@hashory08](https://twitter.com/hashory08)_
+- **Instagram**: _[@hashory08](https://instagram.com/hashory08)_
+- **Discord**: _@hashory_
