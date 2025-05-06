@@ -15,7 +15,7 @@ tools and operations.
 
 Recently, I’ve started exploring ways to improve workflows in anime production and am excited to grow in this area.
 
-## Personal work-in-progress(WIP)
+## 💡 Personal work-in-progress(WIP)
 
 // TODO: Write something..
 
