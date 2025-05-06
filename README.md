@@ -15,6 +15,10 @@ tools and operations.
 
 Recently, I’ve started exploring ways to improve workflows in anime production and am excited to grow in this area.
 
+## Personal work-in-progress(WIP)
+
+// TODO: Write something..
+
 ## 🔧 Skills
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
