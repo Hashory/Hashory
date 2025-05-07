@@ -37,3 +37,5 @@ Recently, I’ve started exploring ways to improve workflows in anime production
 - **X (Twitter)**: _[@hashory08](https://twitter.com/hashory08)_
 - **Instagram**: _[@hashory08](https://instagram.com/hashory08)_
 - **Discord**: _@hashory_
+- **unityroom**: [@hashory](https://unityroom.com/users/hashory)
+
