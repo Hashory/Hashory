@@ -1,6 +1,6 @@
 # Hashory 🌟
 
-**Web | Blender | Computer Graphics
+**Web | Blender | Computer Graphics**
 
 ## 🌟 About Me
 
