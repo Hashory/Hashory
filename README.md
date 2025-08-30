@@ -35,6 +35,7 @@ tools and operations.
 
 ## 🌐 Links
 
+- **My Website**: _[https://zenn.dev/hashory](https://hashory.app/)_
 - **Zenn**: _[zenn.dev/hashory](https://zenn.dev/hashory)_
 - **X (Twitter)**: _[@hashory08](https://twitter.com/hashory08)_
 - **Instagram**: _[@hashory08](https://instagram.com/hashory08)_
