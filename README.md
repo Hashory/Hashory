@@ -18,6 +18,7 @@ tools and operations.
 ## 💡 Personal work-in-progress(WIP)
 
 - [AniEn](https://github.com/Hashory/AniEn): A prototype video editing application that able to realtime colaboration.
+- [tryout-AniEn3](https://github.com/Hashory/tryout-AniEn3): A prototype video editing application that able to realtime colaboration.
 - [AEVE-Plugins](https://github.com/Hashory/AEVE-Plugins): AfterEffects Plugin "[F's Plugins](https://github.com/bryful/F-s-PluginsProjects)" modernization and acceleration implementation.
 
 ## 🔧 Skills
